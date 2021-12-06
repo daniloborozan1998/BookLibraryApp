@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nd3ZLWnP39fWK+XwohBRP5SwtA2143FH4jpx+W+uKqpgeKtnZSk7XJNVtn8zicy5z9s5VXESo3d9tKm+3m9oJA==",
+  "success": true,
+  "projectFilePath": "D:\\Seavus\\Backend_SEDC\\ASP.Net MVS\\BookLibraryApp\\BookLibraryApp.Helpers\\BookLibraryApp.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danilo Borozan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
